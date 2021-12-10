@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.team-matches-container {
+  height: 100%;
+  width: 100%;
+  background-image: linear-gradient(to bottom, #d91c1f, #a4261d, #1e293b);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.banner-image {
+  height: 40vh;
+  width: 95vw;
+}
+.paragraph {
+  color: #ffffff;
+  font-family: 'Bree-Serif';
+  font-size: 20px;
+}
+.unordered-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}

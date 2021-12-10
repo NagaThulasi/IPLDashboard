@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.latest-match-details-container {
+  display: flex;
+  flex-direction: row;
+  width: 95vw;
+  background-color: #333333;
+  padding: 10px;
+  border-radius: 8px;
+  justify-content: space-between;
+  align-items: center;
+  color: #ffffff;
+  font-family: 'Bree-Serif';
+}
+.competing-team {
+  font-weight: bold;
+  font-size: 18px;
+}
+.date {
+  font-weight: bold;
+  font-size: 17px;
+}
+.venue {
+  font-size: 15px;
+}
+.result {
+  font-size: 14px;
+}
+.competing-team-logo {
+  height: 150px;
+  width: 150px;
+}
+.head1 {
+  font-weight: 500;
+  font-size: 18px;
+}
+.para1 {
+  font-weight: 400;
+  font-size: 16px;
+}
